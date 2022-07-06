@@ -28,7 +28,7 @@
    $contact->smtp = array(
      'host' => 'smtp.gmail.com',
      'username' => 'arpportfoliov1@gmail.com',
-     'password' => 'csjqtljurdhdherc',
+     'password' => 'notmypassword',
      'port' => '587'
    );
  
